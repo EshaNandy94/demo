@@ -1,0 +1,6 @@
+name,id,parentId
+GRACS BOTS,O-6066,
+(RPP) - Global Submission Publishing,O-6067,O-6066
+Regulatory Affair Functions,O-6068,O-6066
+MA-MRL0070,O-6069,O-6067
+MA-MRL0022,O-6070,O-6068
