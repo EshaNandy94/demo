@@ -1,0 +1,6 @@
+name,id,parentId,profileUrl
+GRACS BOTS,O-6066,,
+(RPP) - Global Submission Publishing (GSP),O-6067,O-6066,
+Regulatory Affair Functions (RAF) - Global Labelling- Innovation & Operations,O-6068,O-6066,
+MA-MRL0070 (Literature Reference Lifecycle),O-6069,O-6067,https://raw.githubusercontent.com/EshaNandy94/demo/main/MRL0022.png
+MA-MRL0022 (Management of the LEAD and LAST Team Member List,O-6070,O-6068,https://raw.githubusercontent.com/EshaNandy94/demo/main/MRL0022.png
